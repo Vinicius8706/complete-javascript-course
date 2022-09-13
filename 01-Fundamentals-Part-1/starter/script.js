@@ -14,3 +14,8 @@ console.log(typeof true)
 console.log(typeof 'Jonas')
 console.log(typeof 23)
 console.log(typeof null)
+
+let age = 30
+
+const birthYear = 1991;
+//coloca uma constante
