@@ -14,9 +14,14 @@ if (js === "amazing") alert("Javascript is amazing");
 // console.log(typeof 'Jonas')
 // console.log(typeof 23)
 // console.log(typeof null)
-
-let age = 30
+job = "teacher";
+var job = "programmer";
+let age = 30;
+lastName = "Vinicius Farias";
+console.log(lastName);
 
 const birthYear = 1991;
 
+const ageJonas = 2037 - 1991;
+console.log(ageJonas)
 //var deve ser evitada, utiliza em codigos antigos
