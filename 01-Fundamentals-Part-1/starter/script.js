@@ -40,12 +40,14 @@ x *= 4;
 
 //Comparison operators
 
-console.log(ageJonas > ageSarah)
-console.log(ageSah >= 18)
-const isFullAge = ageSarah >=18;
+console.log(ageJonas > ageSarah);
+console.log(ageSah >= 18);
+const isFullAge = ageSarah >= 18;
 // > ->greater
 //x = x+ 10;
 //reassigning the x value
 //times = vezes(asteristicos)
 //asterisk
 //var deve ser evitada, utiliza em codigos antigos
+
+console.log(now - 19991 > now - 2018);
