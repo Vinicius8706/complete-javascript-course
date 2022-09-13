@@ -21,7 +21,31 @@ lastName = "Vinicius Farias";
 console.log(lastName);
 
 const birthYear = 1991;
+const now = 2037;
+const ageJonas = now - 1991;
+const ageSarah = now - 2018;
+console.log(ageJonas - ageSarah);
+console.log(ageJonas * 3);
+//2 ** 3 means 2 to the power of 3
 
-const ageJonas = 2037 - 1991;
-console.log(ageJonas)
+//Concatenation or use template strings
+const firstName = "Vinicius";
+const lastName = "Farias";
+console.log(firstName + " " + lastName);
+
+//Assignment operators
+let x = 10 + 5;
+X += 20;
+x *= 4;
+
+//Comparison operators
+
+console.log(ageJonas > ageSarah)
+console.log(ageSah >= 18)
+const isFullAge = ageSarah >=18;
+// > ->greater
+//x = x+ 10;
+//reassigning the x value
+//times = vezes(asteristicos)
+//asterisk
 //var deve ser evitada, utiliza em codigos antigos
